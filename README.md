@@ -4,5 +4,5 @@
 
 ## Exercício 1: Implementar um programa para escrever uma frase na tela <br><br>
 
-<img src="image/FraseNaTela.png" alt="Imagem de um código em Java que printa a frase 'O primeiro programa a gente nunca esquece'" height="250px" width="250px">
+<img src="image/FraseNaTela.png" alt="Imagem de um código em Java que printa a frase 'O primeiro programa a gente nunca esquece'" height="450px" width="450px">
 
